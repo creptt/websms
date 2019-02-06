@@ -1,4 +1,4 @@
-<form method="post" action="https://creptt.com/sms.php">
+<form method="post" action="https://domainname.com">
 <p>
 The telephone number of the mobile phone the message is being sent to.<br>
 <input type="text" style="width:100%;" name="number">
